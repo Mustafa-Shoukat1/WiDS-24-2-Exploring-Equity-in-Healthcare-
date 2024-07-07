@@ -14,7 +14,7 @@
             "I am just a humble data practitioner. I make mistakes and I have blind spots. If you notice things I can improve or if you just want to chat, please feel free to DM me or connect :)"
         </p>
         <p style="color: #2980B9; font-size: 16px; font-style: italic; margin: 10px 0;">
-            <strong>About Notebook:</strong> 🧠 In this notebook, I'll unlock the potential of Facebook AI Similarity Search 🔍🤖.
+            <strong>About Notebook:</strong> 🧠 In this notebook, We'll discuss the WiDS Datathon 2024 competition, exploring equity in healthcare. ✨
         </p>
         <p style="color: #27AE60; font-size: 16px; font-style: italic; margin: 10px 0;">
             <b>Overview:</b> The WiDS Datathon 2024 involves a prediction task utilizing a dataset containing approximately 19,000 records, which is divided into training and test sets. The dataset comprises information about patients and their attributes such as age, race, BMI, zip code, diagnosis, treatment details (including breast cancer and metastatic cancer diagnosis codes, metastatic cancer treatments), demographic data at the zip code level (including income, education, rent, race, poverty), and climate data linking health outcomes to external conditions. Each record corresponds to a single patient and their Diagnosis Period.
